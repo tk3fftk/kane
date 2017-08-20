@@ -1,0 +1,25 @@
+{
+  "name": "kane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tk3fftk/kane.git"
+  },
+  "author": "tk3fftk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tk3fftk/kane/issues"
+  },
+  "homepage": "https://github.com/tk3fftk/kane#readme",
+  "dependencies": {
+    "coincheck": "^0.1.2",
+    "crypto": "0.0.3",
+    "promise": "^8.0.1",
+    "request": "^2.81.0"
+  }
+}
