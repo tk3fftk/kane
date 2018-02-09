@@ -1,5 +1,3 @@
-#!/home/Hiroki/.nvm/versions/node/v6.11.2/bin/node
-
 'use strict';
 
 const crypto = require('crypto');
